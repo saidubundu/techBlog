@@ -1,6 +1,7 @@
 @extends('layouts.admin')
 
 @section('content')
-    <h1>Oops page not found</h1>
+
+    <h1 class="text-center">Oops page not found</h1>
 
     @stop
